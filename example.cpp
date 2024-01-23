@@ -1,5 +1,5 @@
-// esto es solo un archibo para saber como subir cosas a github
-// no tiene nada en especial y no es util
+// Esto es solo un archivo para saber como subir cosas a GitHub
+// No tiene nada en especial y no es útil
 
 /*
 int main(){
